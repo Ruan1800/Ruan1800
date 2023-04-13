@@ -1,4 +1,4 @@
-### Olá! Eu sou Ruan Ribeiro. Desenvolvedor Front-End React
+### Olá! Eu sou Ruan Ribeiro. Desenvolvedor 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-jalfim-475419245/)
 
